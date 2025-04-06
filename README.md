@@ -1,6 +1,6 @@
 # Pokemon Math Game
 
-A fun educational game that teaches addition using Pokemon characters.
+A fun educational game that teaches addition using Pokemon characters. Fully generated using Claude 3.7 / Windsurf. All images of Pokemon sourced via PokeAPI
 
 ## How to Play
 
